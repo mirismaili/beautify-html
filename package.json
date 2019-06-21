@@ -1,0 +1,31 @@
+{
+  "name": "beautify-html",
+  "version": "0.0.0",
+  "description": "A library to beautify and well-format HTMLs (from the human's perspective)",
+  "main": "dist/main.umd.js",
+  "bundle": "dist/bundle.umd.js",
+  "bundle-module": "dist/bundle.esm.js",
+  "types": "dist/types/TextWrapper.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mirismaili/beautify-html.git"
+  },
+  "keywords": [
+    "code-beautify",
+    "code-prettify",
+    "well-format",
+    "indentation",
+    "html",
+    "human",
+    "dev4dev"
+  ],
+  "author": "S. M. Mir-Ismaili <s.m.mirismaili@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mirismaili/beautify-html/issues"
+  },
+  "homepage": "https://github.com/mirismaili/beautify-html#readme"
+}
